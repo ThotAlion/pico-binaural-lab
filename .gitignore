@@ -52,7 +52,7 @@ Mkfile.old
 dkms.conf
 
 # visual code files
-.history/
+*/.history/
 
 # build files
-build/
+*/build/
