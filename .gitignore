@@ -52,9 +52,14 @@ Mkfile.old
 dkms.conf
 
 # visual code files
+.history
 blink/.history/
 hello_world/.history
+microphone_adc/.history
+microphone_adc_gd/.history
 
 # build files
 blink/build/
 hello_world/build/
+microphone_adc/build/
+microphone_adc_gd/build/
